@@ -11287,9 +11287,12 @@ html {
 .content-section-heading h2, .content-section-heading .h2 {
   font-size: 3rem;
   color: white;
+  text-align: left;
 }
 .content-section-heading h3, .content-section-heading .h3 {
   font-size: 1rem;
+  color: white;
+  text-align: left;
   text-transform: uppercase;
 }
 
